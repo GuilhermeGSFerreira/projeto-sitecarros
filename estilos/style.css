@@ -69,6 +69,7 @@ nav > a:hover{
     transition-duration: 0.5s;
     padding: 15px;
     box-shadow: 2px 2px 2px rgba(255, 255, 255, 0.596);
+    transition-duration: 1s;
 }
 
 section#imagem{
