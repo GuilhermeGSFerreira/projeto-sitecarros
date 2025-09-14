@@ -21,8 +21,9 @@
     --fontitulos: "Luxurious Roman", serif;
 }
 
-body{
-    width: 100%;
+html, body{
+    max-width: 100%;
+    min-width: 300px;
 }
 
 main#conteiner{
@@ -297,9 +298,8 @@ section.informaçoes{
 }
 
 #audir8infos{
-    margin-top: 10%;
     margin-bottom: 10%;
-    margin-left: 15%;
+    margin-left: 270px;
     width: 50%;
     height: auto;
     display: flex;
@@ -433,4 +433,3 @@ footer > p > a:hover{
     font-size: bold;
     text-decoration: underline;
 }
-
